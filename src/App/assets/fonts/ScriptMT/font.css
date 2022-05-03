@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'ScriptMTBold';
+  src: url('ScriptMTBold.eot');
+  src: url('ScriptMTBold.eot?#iefix') format('embedded-opentype'),
+       url('ScriptMTBold.svg#ScriptMTBold') format('svg'),
+       url('ScriptMTBold.ttf') format('truetype'),
+       url('ScriptMTBold.woff') format('woff'),
+       url('ScriptMTBold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
